@@ -29,3 +29,16 @@ img{
   width: 700px;
   height: auto;
 }
+
+nav{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
